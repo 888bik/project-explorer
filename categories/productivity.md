@@ -4,4 +4,4 @@
 
 本分类下推荐过的项目，按推荐日期倒序排列。
 
-（待首期 2026-11-09 填入）
+- **2026-11-06** — [Readest](https://github.com/readest/readest)：全平台同步的现代开源电子书阅读器（EPUB/PDF/MOBI/Markdown），翻译、TTS 朗读、KOReader 互通俱全。详见 [2026-11-06 期报告](../history/2026-11-06.md)。
