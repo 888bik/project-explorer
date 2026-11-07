@@ -9,7 +9,7 @@
 
 ## 最新一期
 
-- [2026-11-06（首期）](history/2026-11-06.md)：Readest、img2threejs、oh-my-pi
+- [2026-11-07](history/2026-11-07.md)：Glance、Komi Store、OpenMAIC
 
 ## 目录结构
 
